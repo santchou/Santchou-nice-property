@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
       <Head>
         <title>Top | House</title>
       </Head>
-      <Box style={{ background: "gray", margin: "20px", borderRadius: "10px" }}>
+      <Box style={{ background: "gray", margin: "3px", borderRadius: "5px" }}>
         <header>
           <Navbar />
         </header>
